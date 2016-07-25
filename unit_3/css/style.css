@@ -1,5 +1,5 @@
 body, h1 {font-family: Helvetica, sans-serif;
-	background: #1EFFBE;
+	background: #52516A;
 	color: #6A2D42;
 
 }
@@ -12,4 +12,6 @@ body {text-align: left;
 #slogan {
 	font-style: italic ;
 
+}
+background-image: images/randfhero.jpg;
 }
