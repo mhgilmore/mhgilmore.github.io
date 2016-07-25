@@ -1,16 +1,15 @@
-body {text-align: center;
-	background: 1EFFBE;
-	color: FFFDE6;
+body, h1 {font-family: Helvetica, sans-serif;
+	background: #1EFFBE;
+	color: #6A2D42;
 
 }
 h1 {text-align: center;
-	background: 1EFFBE;
-	color:FFFDE6;
+	font-weight: bold;
 
 }
-#slogan {text-align: center;
-	background: 1EFFBE;
-	color:FFFDE6
+body {text-align: left;
+}
+#slogan {
 	font-style: italic ;
 
 }
