@@ -10,7 +10,8 @@ h1 {text-align: center;
 body {text-align: left;
 }
 #slogan {
-	font-style: italic ;
+	font-weight: 700;
+	font-color: #4863A0;
 
 }
 background-image: images/randfhero.jpg;
