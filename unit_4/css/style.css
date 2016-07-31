@@ -15,13 +15,17 @@ body {text-align: left;
 }
 background-image: images/randfhero.jpg;
 }
-.head {font-family: 'Ubuntu Condensed', sans-serif;
+.text {
+font-family: "karma", serif;
 }
-.list {font-family: 'Karma', serif;
+.list {
+	font-family: "karma", serif;
+	font-weight: semi-bold;
 }
-.action {font-family: 'Karma', serif;
-font-weight: bold;
+.action {
+	font-family: "ubuntu", sans-serif;
 }
-.text {font-family: 'Karma", serif;
-font-weight: semi-bold;
+.head {
+	font-family: "ubuntu", sans-serif;
+	font-weight: bold;
 }
