@@ -1,0 +1,27 @@
+body, h1 {font-family: Helvetica, sans-serif;
+	background-image: images/randfhero.jpg;
+	color: #0C1324;
+
+}
+h1 {text-align: center;
+	font-weight: bold;
+
+}
+body {text-align: left;
+}
+#slogan {
+	font-style: italic ;
+
+}
+background-image: images/randfhero.jpg;
+}
+.head {font-family: 'Ubuntu Condensed', sans-serif;
+}
+.list {font-family: 'Karma', serif;
+}
+.action {font-family: 'Karma', serif;
+font-weight: bold;
+}
+.text {font-family: 'Karma", serif;
+font-weight: semi-bold;
+}
