@@ -65,7 +65,41 @@ div, section {
 	height: 0;
 }
 
+body, h1 {font-family: Helvetica, sans-serif;
+	background-image: images/randfhero.jpg;
+	color: #0C1324;
 
+}
+h1 {text-align: center;
+	font-weight: bold;
+
+}
+body {text-align: left;
+}
+#slogan {
+	font-weight: 700;
+	color: #E9AB17;
+
+}
+background-image: images/randfhero.jpg;
+}
+.text {
+font-family: "karma", serif;
+}
+.list {
+	font-family: "karma", serif;
+	font-weight: bold;
+}
+.action {
+	font-family: "ubuntu", sans-serif;
+}
+.head {
+	font-family: "ubuntu", sans-serif;
+	font-weight: bold;
+}
+
+#contact {text-align: center;
+}
 
 
 
