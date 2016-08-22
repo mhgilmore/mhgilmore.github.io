@@ -1,5 +1,6 @@
 header {
 	background-color: #FF3B3F;
+	text-shadow: 2px 2px 8px #FF0000;
 	border: 0;
 	padding: 20px;
 	font-family: "Franklin Gothic", sans-serif;
@@ -9,13 +10,15 @@ header {
 
 button {
 	background-color: #8dbdd8;
-	border: 0;
-	padding: 2em;
+	 border: 2px solid;
+    border-radius: 25px;
+	padding: 1em;
 	font-family: "Franklin Gothic", sans-serif;
 }
 nav {
 	background-color: #8dbdd8;
-	border: 0;
+	 border: 2px solid;
+    border-radius: 25px;
 	padding: 20px;
 }
 
@@ -169,6 +172,7 @@ background-color: #CAEBF2;
 }
 
 body, h1 {font-family: Helvetica, sans-serif;
+	text-shadow: 2px 2px 8px #FF0000;
 	background-image: images/randfhero.jpg;
 	color: #0C1324;
 	image-align: center;
