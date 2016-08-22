@@ -82,36 +82,36 @@ border: 0;
 background-color: #EFEFEF;
 	background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
 border: 0;
-	padding: 3%;
+	padding: 2% 1%;
 	float: left;
-	width: 15%;	
+	width: 12%;	
 }
 
 #Redefine {
 	background-color: #EFEFEF;
 	background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
 	border: 0;
-	padding: 3%;
-	float: right;
-	width: 15%;
+	padding: 2% 1%;
+	float: left;
+	width: 12%;
 }
 
 #Unblemish {
 	background-color: #EFEFEF;
 		background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
 border: 0;
-	padding: 3%;
-	float: right;
-	width: 15%;
+	padding: 2% 1%;
+	float: left;
+	width: 12%;
 }
 
 #Soothe {
 	background-color: #EFEFEF;
 		background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
 border: 0;
-	padding: 3%;
-	float: right;
-	width: 15%;
+	padding: 2% 1%;
+	float: left;
+	width: 12%;
 }
 
 
