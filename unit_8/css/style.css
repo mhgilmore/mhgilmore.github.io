@@ -32,7 +32,7 @@ div, section {
 #three_column  {
 	background-color: #CAEBF2;
 	border: 0;
-	padding: 10px;
+	padding: 1%;
 
 }
 
@@ -64,13 +64,14 @@ div, section {
 #four_column {
 	background-color: #CAEBF2;
 	border: 0;
-	padding: 0;
+	padding: 3% 0;
 
 }
 
 #Reverse {
 background-color: #EFEFEF;
-	border: 0;
+	background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
+border: 0;
 	padding: 0;
 	float: left;
 	width: 20%;	
@@ -87,7 +88,8 @@ background-color: #EFEFEF;
 
 #Unblemish {
 	background-color: #EFEFEF;
-	border: 0;
+		background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
+border: 0;
 	padding: 0;
 	float: left;
 	width: 20%;
@@ -95,7 +97,8 @@ background-color: #EFEFEF;
 
 #Soothe {
 	background-color: #EFEFEF;
-	border: 0;
+		background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
+border: 0;
 	padding: 0;
 	float: left;
 	width: 20%;
