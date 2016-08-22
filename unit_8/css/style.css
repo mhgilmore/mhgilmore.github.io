@@ -3,7 +3,7 @@ header {
 	border: 0;
 	padding: 20px;
 	font-family: "Franklin Gothic", sans-serif;
-	color: #292626;
+	color: #312e2e;
 
 }
 
@@ -18,7 +18,7 @@ aside {
 	border: 0;
 	padding: 20px;
 	font-family: "Franklin Gothic", sans-serif;
-	color: #292626;
+	color: #312e2e;
 
 }
 
@@ -27,7 +27,7 @@ article {
 	border: 0;
 	padding: 20px;
 	font-family: "Franklin Gothic", sans-serif;
-	color: #292626;
+	color: #312e2e;
 
 }
 
@@ -37,7 +37,7 @@ div, section {
 	border: 0;
 	padding: 20px;
 	font-family: "ubuntu", sans-serif;
-	color: #292626;
+	color: #312e2e;
 
 
 }
@@ -45,7 +45,7 @@ div, section {
 	background-color: #CAEBF2;
 	border: 0;
 	padding: 1%;
-	color: #292626;
+	color: #312e2e;
 
 }
 
@@ -58,7 +58,7 @@ div, section {
 	padding: .5em 1.5%;
 	float: left;
 	width: 30%;
-	color: #292626;
+	color: #312e2e;
 }
 #center {
 	background-color: #EFEFEF;
@@ -69,7 +69,7 @@ div, section {
 	padding: .5em 1.5%;
 	float: left;
 	width: 30%;
-	color: #292626;
+	color: #312e2e;
 }
 
 #right {
@@ -81,7 +81,7 @@ border: 0;
 	padding: .5em 1.5%;
 	float: left;
 	width: 30%;
-	color: #292626;
+	color: #312e2e;
 }
 
 .clearfix:after {
@@ -105,7 +105,9 @@ font-family: "ubuntu", sans-serif;
 
 	padding: 2%;
 	float: left;
-	width: 20%;	color: #292626;
+	width: 20%;	
+		color: #312e2e;
+
 }
 
 #Redefine {
@@ -117,7 +119,7 @@ font-family: "ubuntu", sans-serif;
 	padding: 2%;
 	float: left;
 	width: 20%;
-	color: #292626;
+	color: #312e2e;
 }
 
 #Unblemish {
@@ -129,7 +131,7 @@ font-family: "ubuntu", sans-serif;
 	padding: 2%;
 	float: left;
 	width: 20%;
-	color: #292626;
+	color: #312e2e;
 }
 
 #Soothe {
@@ -141,7 +143,7 @@ font-family: "ubuntu", sans-serif;
 	padding: 2%;
 	float: left;
 	width: 20%;
-	color: #292626;
+	color: #312e2e;
 }
 
 
@@ -157,29 +159,31 @@ font-family: "ubuntu", sans-serif;
 background-color: #CAEBF2;
 	border: 0;
 	padding: 20px;
-color: #292626;
+	color: #312e2e;
 }
 
 body, h1 {font-family: Helvetica, sans-serif;
 	background-image: images/randfhero.jpg;
 	color: #0C1324;
 	image-align: center;
-color: #292626;
+	color: #312e2e;
 }
 h1 {text-align: center;
 	font-weight: bold;
 	font-family: "ubuntu", sans-serif;
+		color: #312e2e;
+
 
 
 }
 body {text-align: left;
-	color: #292626;
+	color: #312e2e;
 }
 #slogan {
 	font-weight: 700;
 	color: #E9AB17;
 	font-family: "ubuntu", sans-serif;
-	color: #292626;
+	color: #312e2e;
 
 
 }
@@ -189,21 +193,26 @@ footer {
 	border: 0;
 	padding: 20px;
 	font-family: "ubuntu", sans-serif;
-	color: #292626;
-
+	color: #312e2e;
 }
 
 background-image: images/randfhero.jpg;
 }
 .text {
 font-family: "karma", serif;
+	color: #312e2e;
+
 }
 .list {
 	font-family: "karma", serif;
 	font-weight: bold;
+		color: #312e2e;
+
 }
 .action {
 	font-family: "ubuntu", sans-serif;
+		color: #312e2e;
+
 
 
 #Narrative {
@@ -211,6 +220,8 @@ font-family: "karma", serif;
 		font-family: "ubuntu", sans-serif;
 		border: 0;
 	padding: 20px;
+		color: #312e2e;
+
 	}
 
 	#About_Lisa {
@@ -218,15 +229,19 @@ background-color: #FF3B3F;
 font-family: "ubuntu", sans-serif;
 border: 0;
 	padding: 20px;
+		color: #312e2e;
+
 	}
 
 }
 .head {
 	font-family: "ubuntu", sans-serif;
 	font-weight: bold;
+	color: #312e2e;
 }
 
 #contact {text-align: center;
+	color: #312e2e;
 }
 
 
