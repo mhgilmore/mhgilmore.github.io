@@ -172,7 +172,6 @@ background-color: #CAEBF2;
 }
 
 body, h1 {font-family: Helvetica, sans-serif;
-	text-shadow: 2px 2px 8px #FF0000;
 	background-image: images/randfhero.jpg;
 	color: #0C1324;
 	image-align: center;
@@ -182,10 +181,11 @@ h1 {text-align: center;
 	font-weight: bold;
 	font-family: "ubuntu", sans-serif;
 		color: #312e2e;
-
-
+    text-shadow: 2px 2px 8px #FF0000;
 
 }
+
+
 body {text-align: left;
 	color: #312e2e;
 }
