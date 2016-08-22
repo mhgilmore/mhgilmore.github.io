@@ -52,7 +52,7 @@ div, section {
 	background-color: #EFEFEF;
 	border: 1px black solid;
 	padding: 20px;
-	float: center;
+	float: left;
 	width: 30%;
 }
 
@@ -61,7 +61,7 @@ div, section {
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
-	width: 62%;
+	width: 30%;
 }
 .clearfix:after {
 	visibility: hidden;
