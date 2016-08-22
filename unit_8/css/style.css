@@ -22,11 +22,6 @@ article {
 	padding: 20px;
 }
 
-footer {
-	background-color: #FF3B3F;
-	border: 0;
-	padding: 20px;
-}
 
 div, section {
 	background-color: #CAEBF2;
@@ -76,37 +71,37 @@ div, section {
 #Reverse {
 background-color: #EFEFEF;
 	background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
-	border: 0;
-	padding:.5em .5%;
+	border: 1em;
+	padding:.5em;
 	float: left;
-	width: 10%;	
+	width: 20%;	
 }
 
 #Redefine {
 	background-color: #EFEFEF;
 	background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
-	border: 0;
-	padding:.5em .5%;
+	border: 1em;
+	padding:.5em;
 	float: left;
-	width: 10%;
+	width: 20%;
 }
 
 #Unblemish {
 	background-color: #EFEFEF;
 	background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
-	border: 0;
-	padding:.5em .5%;
+	border: 1em;
+	padding:.5em;
 	float: left;
-	width: 10%;
+	width: 20%;
 }
 
 #Soothe {
 	background-color: #EFEFEF;
 	background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
-	border: 0;
-	padding:.5em .5%;
+	border: 1em;
+	padding:.5em;
 	float: left;
-	width: 10%;
+	width: 20%;
 }
 
 
@@ -136,6 +131,13 @@ body {text-align: left;
 	color: #E9AB17;
 
 }
+
+footer {
+	background-color: #FF3B3F;
+	border: 0;
+	padding: 20px;
+}
+
 background-image: images/randfhero.jpg;
 }
 .text {
