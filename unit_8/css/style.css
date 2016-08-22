@@ -55,8 +55,9 @@ div, section {
 
 #right {
 	background-color: #EFEFEF;
-	border: 0;
-	padding:.5em 1.5%;
+		background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
+border: 0;
+	padding: .5em 1.5%;
 	float: left;
 	width: 30%;
 }
