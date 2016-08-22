@@ -43,23 +43,23 @@ div, section {
 
 #left {
 	background-color: #EFEFEF;
-	border: 1px black solid;
-	padding: .5em;
+	border: 0;
+	padding: .5em 3%;
 	float: left;
 	width: 30%;
 }
 #center {
 	background-color: #EFEFEF;
-	border: 1px black solid;
-	padding: .5em;
+	border: 0;
+	padding: .5em 3%;
 	float: left;
 	width: 30%;
 }
 
 #right {
 	background-color: #EFEFEF;
-	border: 1px black solid;
-	padding: .5em;
+	border: 0;
+	padding: .5em 3%;
 	float: left;
 	width: 30%;
 }
