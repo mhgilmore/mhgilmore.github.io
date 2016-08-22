@@ -45,6 +45,7 @@ div, section {
 	background-color: #EFEFEF;
 	border: 0;
 	padding: .5em 1.5%;
+	padding-color: #CAEBF2;
 	float: left;
 	width: 30%;
 }
@@ -52,6 +53,7 @@ div, section {
 	background-color: #EFEFEF;
 	border: 0;
 	padding: .5em 1.5%;
+	padding-color: #CAEBF2;
 	float: left;
 	width: 30%;
 }
@@ -60,6 +62,7 @@ div, section {
 	background-color: #EFEFEF;
 	border: 0;
 	padding: .5em 1.5%;
+	padding-color: #CAEBF2;
 	float: left;
 	width: 30%;
 }
