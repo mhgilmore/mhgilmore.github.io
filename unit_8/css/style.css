@@ -122,6 +122,12 @@ border: 0;
 	content: " ";
 	clear: both;
 	height: 0;
+	
+#End {
+background-color: #CAEBF2;
+	border: 0;
+	padding: 20px;
+
 }
 
 body, h1 {font-family: Helvetica, sans-serif;
