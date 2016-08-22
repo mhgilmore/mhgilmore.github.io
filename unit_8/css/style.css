@@ -2,6 +2,8 @@ header {
 	background-color: #FF3B3F;
 	border: 0;
 	padding: 20px;
+	font-family: "ubuntu", sans-serif;
+
 }
 
 nav {
@@ -143,6 +145,8 @@ body, h1 {font-family: Helvetica, sans-serif;
 }
 h1 {text-align: center;
 	font-weight: bold;
+	font-family: "ubuntu", sans-serif;
+
 
 }
 body {text-align: left;
@@ -150,6 +154,8 @@ body {text-align: left;
 #slogan {
 	font-weight: 700;
 	color: #E9AB17;
+	font-family: "ubuntu", sans-serif;
+
 
 }
 
@@ -157,6 +163,8 @@ footer {
 	background-color: #FF3B3F;
 	border: 0;
 	padding: 20px;
+	font-family: "ubuntu", sans-serif;
+
 }
 
 background-image: images/randfhero.jpg;
