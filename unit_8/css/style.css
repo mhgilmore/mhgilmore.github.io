@@ -171,14 +171,15 @@ font-family: "karma", serif;
 .action {
 	font-family: "ubuntu", sans-serif;
 
-	.narrative {
+
+#Narrative {
 		background-color: #FF3B3F;
 		font-family: "ubuntu", sans-serif;
 		border: 0;
 	padding: 20px;
 	}
 
-	.About_Lisa {
+	#About_Lisa {
 background-color: #FF3B3F;
 font-family: "ubuntu", sans-serif;
 border: 0;
