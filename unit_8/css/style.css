@@ -16,12 +16,16 @@ aside {
 	background-color: #CAEBF2;
 	border: 0;
 	padding: 20px;
+	font-family: "ubuntu", sans-serif;
+
 }
 
 article {
 	background-color: #CAEBF2;
 	border: 0;
 	padding: 20px;
+	font-family: "ubuntu", sans-serif;
+
 }
 
 
@@ -29,6 +33,8 @@ div, section {
 	background-color: #CAEBF2;
 	border: 0;
 	padding: 20px;
+	font-family: "ubuntu", sans-serif;
+
 
 }
 #three_column  {
