@@ -66,6 +66,50 @@ div, section {
 	float: left;
 	width: 30%;
 }
+#four_column {
+	background-color: #CAEBF2;
+	border: 0;
+	padding: 10px;
+
+}
+
+#Reverese {
+background-color: #EFEFEF;
+	background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
+	border: 0;
+	padding:.5em 1.5%;
+	float: left;
+	width: 25%;	
+}
+
+#Redefine {
+	background-color: #EFEFEF;
+	background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
+	border: 0;
+	padding:.5em 1.5%;
+	float: left;
+	width: 25%;
+}
+
+#Unblemish {
+	background-color: #EFEFEF;
+	background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
+	border: 0;
+	padding:.5em 1.5%;
+	float: left;
+	width: 25%;
+}
+
+#Soothe {
+	background-color: #EFEFEF;
+	background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
+	border: 0;
+	padding:.5em 1.5%;
+	float: left;
+	width: 25%;
+}
+
+
 .clearfix:after {
 	visibility: hidden;
 	display: block;
