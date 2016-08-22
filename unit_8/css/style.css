@@ -71,12 +71,9 @@ border: 0;
 	height: 0;
 }
 
-#four_column {
-	background-color: #CAEBF2;
-	border: 0;
-	padding: 3%;
 
-}
+
+
 
 #Reverse {
 background-color: #EFEFEF;
@@ -84,7 +81,7 @@ background-color: #EFEFEF;
 border: 0;
 	padding: 2% 1%;
 	float: left;
-	width: 12%;	
+	width: 20%;	
 }
 
 #Redefine {
@@ -93,7 +90,7 @@ border: 0;
 	border: 0;
 	padding: 2% 1%;
 	float: left;
-	width: 12%;
+	width: 20%;
 }
 
 #Unblemish {
@@ -102,7 +99,7 @@ border: 0;
 border: 0;
 	padding: 2% 1%;
 	float: left;
-	width: 12%;
+	width: 20%;
 }
 
 #Soothe {
@@ -111,7 +108,7 @@ border: 0;
 border: 0;
 	padding: 2% 1%;
 	float: left;
-	width: 12%;
+	width: 20%;
 }
 
 
