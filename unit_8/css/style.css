@@ -44,14 +44,14 @@ div, section {
 #left {
 	background-color: #EFEFEF;
 	border: 1px black solid;
-	padding: 5px;
+	padding: 3%;
 	float: left;
 	width: 30%;
 }
 #center {
 	background-color: #EFEFEF;
 	border: 1px black solid;
-	padding: 5px;
+	padding: 3%;
 	float: left;
 	width: 30%;
 }
@@ -59,7 +59,7 @@ div, section {
 #right {
 	background-color: #EFEFEF;
 	border: 1px black solid;
-	padding: 5px;
+	padding: 3%;
 	float: left;
 	width: 30%;
 }
