@@ -91,7 +91,7 @@ background-color: #EFEFEF;
 	background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
 	border: 1em;
 	padding:.5em;
-	float: right;
+	float: left;
 	width: 20%;
 }
 
@@ -100,7 +100,7 @@ background-color: #EFEFEF;
 	background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
 	border: 1em;
 	padding:.5em;
-	float: right;
+	float: left;
 	width: 20%;
 }
 
