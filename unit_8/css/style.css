@@ -34,10 +34,10 @@ div, section {
 	padding: 20px;
 
 }
-#two_column  {
+#three_column  {
 	background-color: #CAEBF2;
-	border: 1px black solid;
-	padding: 20px;
+	border: .1px black solid;
+	padding: 10px;
 
 }
 
@@ -46,6 +46,13 @@ div, section {
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
+	width: 30%;
+}
+#center {
+	background-color: #EFEFEF;
+	border: 1px black solid;
+	padding: 20px;
+	float: center;
 	width: 30%;
 }
 
