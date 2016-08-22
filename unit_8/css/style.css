@@ -62,6 +62,15 @@ border: 0;
 	width: 30%;
 }
 
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
 #four_column {
 	background-color: #CAEBF2;
 	border: 0;
