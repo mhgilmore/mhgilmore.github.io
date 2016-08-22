@@ -7,6 +7,12 @@ header {
 
 }
 
+button {
+	background-color: #8dbdd8;
+	border: 0;
+	padding: 2em;
+	font-family: "Franklin Gothic", sans-serif;
+}
 nav {
 	background-color: #8dbdd8;
 	border: 0;
