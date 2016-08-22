@@ -64,7 +64,7 @@ div, section {
 #four_column {
 	background-color: #CAEBF2;
 	border: 0;
-	padding: 10px;
+	padding: 2%;
 
 }
 
@@ -91,7 +91,7 @@ background-color: #EFEFEF;
 	background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
 	border: 1em;
 	padding:.5em;
-	float: left;
+	float: right;
 	width: 20%;
 }
 
@@ -100,7 +100,7 @@ background-color: #EFEFEF;
 	background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
 	border: 1em;
 	padding:.5em;
-	float: left;
+	float: right;
 	width: 20%;
 }
 
