@@ -274,6 +274,8 @@ border: 0;
 	#three_column {
 		float: none;
 		width: auto;
+		display: block;
+		text-align: center;
 	}
 }
 
