@@ -18,36 +18,7 @@ button {
 	text-align: center;
 }
 
-#hero {
-	padding: 10px;
-}
 
-#navigation {
-	padding: 10px;
-}
-
-#products {
-	padding: 10px;
-}
-
-
-#End {
-	padding: 10px;
-}
-
-#footer {
-	padding: 10px;
-}
-
-#button {
-	background-color: #8dbdd8;
-	 border: 1px solid;
-    border-radius: 25px;
-	padding: .5em 4em;
-	font-family: "Franklin Gothic", sans-serif;
-	display: inline-block;
-	text-align: center;
-}
 nav {
 	background-color: #8dbdd8;
 	 border: 2px solid;
@@ -95,15 +66,15 @@ div, section {
 }
 
 
-#column_four  {
-	background-color: #CAEBF2;
-	width: 24%;
-	border: 0;
-	padding: 1%;
-	color: #312e2e;
-	float: left;
-
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
 }
+
 
 #left {
 	background-color: #EFEFEF;
@@ -140,6 +111,15 @@ border: 0;
 	color: #312e2e;
 }
 
+#column_four  {
+	background-color: #CAEBF2;
+	width: 24%;
+	border: 0;
+	padding: 1%;
+	color: #312e2e;
+	float: left;
+	}
+
 .clearfix:after {
 	visibility: hidden;
 	display: block;
@@ -148,8 +128,6 @@ border: 0;
 	clear: both;
 	height: 0;
 }
-
-
 
 
 
