@@ -202,12 +202,7 @@ font-family: "ubuntu", sans-serif;
 	height: 0;
 }
 
-.End {
-background-color: #CAEBF2;
-	border: 0;
-	padding: 20px;
-	color: #312e2e;
-}
+
 
 
 body, h1 {font-family: Helvetica, sans-serif;
@@ -282,7 +277,6 @@ border: 0;
 
 	}
 
-}
 .head {
 	font-family: "ubuntu", sans-serif;
 	font-weight: bold;
@@ -294,24 +288,5 @@ border: 0;
 }
 
 
-@media only screen and (max-width: 1278px) {
-	nav {
-		float: none;
-		width: auto;
-		display: block;
-		text-align: center;
-	}
-	#wrapper {
-		width: 100%;
-	}
-	#hero {
-		width: 100%;
-	}
-	.column {
-		float: none;
-		width: auto;
-		display: block;
-		text-align: center;
-	}
-}
+
 
