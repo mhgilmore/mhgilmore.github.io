@@ -66,6 +66,7 @@ div, section {
 }
 #three_column  {
 	background-color: #CAEBF2;
+	width: 75%;
 	border: 0;
 	padding: 1%;
 	color: #312e2e;
@@ -269,7 +270,7 @@ border: 0;
 }
 
 
-@media only screen and (max-width: 1280px) {
+@media only screen and (max-width: 1285px) {
 	#three_column {
 		float: none;
 		width: auto;
