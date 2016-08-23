@@ -63,14 +63,6 @@ aside {
 	color: #312e2e;
 
 }
-footer {
-	background-color: #CAEBF2;
-	border: 0;
-	padding: 20px;
-	font-family: "Franklin Gothic", sans-serif;
-	color: #312e2e;
-
-}
 
 article {
 	background-color: #CAEBF2;
@@ -245,12 +237,12 @@ body, h1 {font-family: Helvetica, sans-serif;
 	image-align: center;
 	color: #312e2e;
 }
+
 h1 {text-align: center;
 	font-weight: bold;
 	font-family: "ubuntu", sans-serif;
 		color: #312e2e;
    
-
 }
 
 
