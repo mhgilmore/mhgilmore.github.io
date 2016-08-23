@@ -270,7 +270,7 @@ border: 0;
 
 
 @media only screen and (max-width: 1280px) {
-	.article {
+	.three_column {
 		float: none;
 		width: auto;
 	}
