@@ -10,10 +10,12 @@ header {
 
 button {
 	background-color: #8dbdd8;
-	 border: 2px solid;
+	 border: 1px solid;
     border-radius: 25px;
-	padding: 1em;
+	padding: .5em 4em;
 	font-family: "Franklin Gothic", sans-serif;
+	display: inline-block;
+	text-align: center;
 }
 nav {
 	background-color: #8dbdd8;
