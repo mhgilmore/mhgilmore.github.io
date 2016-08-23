@@ -17,6 +17,16 @@ button {
 	display: inline-block;
 	text-align: center;
 }
+button2 {
+	background-color: #8dbdd8;
+	 border: 1px solid;
+    border-radius: 5%;
+	padding: .5em .5em;
+	font-family: "Franklin Gothic", sans-serif;
+	display: inline-block;
+	text-align: center;
+}
+}
 
 #button {
 	background-color: #8dbdd8;
