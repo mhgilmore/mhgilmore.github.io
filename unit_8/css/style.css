@@ -18,6 +18,25 @@ button {
 	text-align: center;
 }
 
+#hero {
+	padding: 10px;
+}
+
+#navigation {
+	padding: 10px;
+}
+
+#products {
+	padding: 10px;
+}
+
+
+#End {
+	padding: 10px;
+}
+
+#footer {
+	padding: 10px;
 }
 
 #button {
