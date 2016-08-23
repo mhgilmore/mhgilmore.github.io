@@ -83,7 +83,6 @@ div, section {
 	background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
 	border: 0;
 	padding: .1em .5em;
-	float: left;
 	width: 30%;
 	color: #312e2e;
 }
@@ -94,7 +93,6 @@ div, section {
 	background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
 	border: 0;
 	padding: .5em 1.5em;
-	float: left;
 	width: 30%;
 	color: #312e2e;
 }
@@ -106,7 +104,6 @@ div, section {
 		background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
 border: 0;
 	padding: .5em 1.5em;
-	float: left;
 	width: 30%;
 	color: #312e2e;
 }
@@ -137,7 +134,6 @@ border: 0;
 font-family: "ubuntu", sans-serif;
 
 	padding: 2%;
-	float: left;
 	width: 20%;	
 		color: #312e2e;
 
@@ -152,7 +148,6 @@ font-family: "ubuntu", sans-serif;
 	font-family: "ubuntu", sans-serif;
 
 	padding: 2%;
-	float: left;
 	width: 20%;
 	color: #312e2e;
 }
@@ -164,7 +159,6 @@ border: 0;
 font-family: "ubuntu", sans-serif;
 
 	padding: 2%;
-	float: left;
 	width: 20%;
 	color: #312e2e;
 }
@@ -176,7 +170,6 @@ border: 0;
 font-family: "ubuntu", sans-serif;
 
 	padding: 2%;
-	float: left;
 	width: 20%;
 	color: #312e2e;
 }
@@ -201,7 +194,7 @@ body, h1 {font-family: Helvetica, sans-serif;
 	color: #312e2e;
 }
 
-h1 {text-align: center;
+h1, h3 {text-align: center;
 	font-weight: bold;
 	font-family: "ubuntu", sans-serif;
 		color: #312e2e;
@@ -236,22 +229,24 @@ font-family: "karma", serif;
 		color: #312e2e;
 
 }
-
-#Narrative {
-		font-family: "ubuntu", sans-serif;
-		border: 0;
+#end {
+	
+	font-family: "ubuntu", sans-serif;
+	border: 0;
 	padding: 20px;
-		color: #312e2e;
+	color: #312e2e;
+	float: left;
+}
 
-	}
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
 
-	#About_Lisa {
-font-family: "ubuntu", sans-serif;
-border: 0;
-	padding: 20px;
-		color: #312e2e;
-
-	}
 
 	footer {
 	background-color: #FF3B3F;
