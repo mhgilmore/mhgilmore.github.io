@@ -17,7 +17,8 @@ button {
 	display: inline-block;
 	text-align: center;
 }
-button2 {
+
+#button2 {
 	background-color: #8dbdd8;
 	 border: 1px solid;
     border-radius: 5%;
