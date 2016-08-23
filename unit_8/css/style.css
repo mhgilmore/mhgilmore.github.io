@@ -130,8 +130,7 @@ border: 0;
 }
 
 
-
-#Reverse {
+#reverse {
 background-color: #EFEFEF;
 	background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
 border: 0;
@@ -144,7 +143,9 @@ font-family: "ubuntu", sans-serif;
 
 }
 
-#Products{
+
+
+#redefine {
 	background-color: #EFEFEF;
 	background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
 	border: 0;
@@ -156,19 +157,7 @@ font-family: "ubuntu", sans-serif;
 	color: #312e2e;
 }
 
-#Redefine {
-	background-color: #EFEFEF;
-	background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
-	border: 0;
-	font-family: "ubuntu", sans-serif;
-
-	padding: 2%;
-	float: left;
-	width: 20%;
-	color: #312e2e;
-}
-
-#Unblemish {
+#unblemish {
 	background-color: #EFEFEF;
 		background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
 border: 0;
@@ -180,7 +169,7 @@ font-family: "ubuntu", sans-serif;
 	color: #312e2e;
 }
 
-#Soothe {
+#soothe {
 	background-color: #EFEFEF;
 		background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
 border: 0;
@@ -224,20 +213,7 @@ body {text-align: left;
 	color: #312e2e;
 }
 
-#slogan {
-	font-weight: 700;
-	color: #E9AB17;
-	font-family: "ubuntu", sans-serif;
-	color: #312e2e;
-}
 
-footer {
-	background-color: #FF3B3F;
-	border: 0;
-	padding: 20px;
-	font-family: "ubuntu", sans-serif;
-	color: #312e2e;
-}
 
 background-image: images/randfhero.jpg;
 }
@@ -276,6 +252,14 @@ border: 0;
 		color: #312e2e;
 
 	}
+
+	footer {
+	background-color: #FF3B3F;
+	border: 0;
+	padding: 20px;
+	font-family: "ubuntu", sans-serif;
+	color: #312e2e;
+}
 
 .head {
 	font-family: "ubuntu", sans-serif;
