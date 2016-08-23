@@ -64,7 +64,7 @@ div, section {
 
 
 }
-#three_column  {
+.column  {
 	background-color: #CAEBF2;
 	width: 100%;
 	border: 0;
@@ -133,7 +133,8 @@ font-family: "ubuntu", sans-serif;
 		color: #312e2e;
 
 }
-.Products{
+
+#Products{
 	background-color: #EFEFEF;
 	background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
 	border: 0;
@@ -189,13 +190,15 @@ font-family: "ubuntu", sans-serif;
 	content: " ";
 	clear: both;
 	height: 0;
+}
 
-#End {
+.End {
 background-color: #CAEBF2;
 	border: 0;
 	padding: 20px;
 	color: #312e2e;
 }
+
 
 body, h1 {font-family: Helvetica, sans-serif;
 	background-image: images/randfhero.jpg;
@@ -215,13 +218,12 @@ h1 {text-align: center;
 body {text-align: left;
 	color: #312e2e;
 }
+
 #slogan {
 	font-weight: 700;
 	color: #E9AB17;
 	font-family: "ubuntu", sans-serif;
 	color: #312e2e;
-
-
 }
 
 footer {
@@ -234,22 +236,25 @@ footer {
 
 background-image: images/randfhero.jpg;
 }
+
 .text {
 font-family: "karma", serif;
 	color: #312e2e;
 
 }
+
 .list {
 	font-family: "karma", serif;
 	font-weight: bold;
 		color: #312e2e;
 
 }
+
 .action {
 	font-family: "ubuntu", sans-serif;
 		color: #312e2e;
 
-
+}
 
 #Narrative {
 		background-color: #FF3B3F;
@@ -283,6 +288,18 @@ border: 0;
 
 @media only screen and (max-width: 1280px) {
 	nav {
+		float: none;
+		width: auto;
+		display: block;
+		text-align: center;
+	}
+	#wrapper {
+		width: 100%;
+	}
+	#hero {
+		width: 100%;
+	}
+	.column {
 		float: none;
 		width: auto;
 		display: block;
