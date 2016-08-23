@@ -133,6 +133,17 @@ font-family: "ubuntu", sans-serif;
 		color: #312e2e;
 
 }
+.Products{
+	background-color: #EFEFEF;
+	background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
+	border: 0;
+	font-family: "ubuntu", sans-serif;
+
+	padding: 2%;
+	float: left;
+	width: 20%;
+	color: #312e2e;
+}
 
 #Redefine {
 	background-color: #EFEFEF;
