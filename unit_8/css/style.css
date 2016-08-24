@@ -32,7 +32,7 @@ div, section {
 
 #column_three  {
 	background-color: #CAEBF2;
-	width: 30%;
+	width: 90%;
 	border: 0;
 	padding: 1%;
 	color: #312e2e;
@@ -43,7 +43,6 @@ div, section {
 #left {
 	background-color: #EFEFEF;
 	font-family: "ubuntu", sans-serif;
-
 	background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
 	border: 0;
 	padding: .1em .5em;
@@ -51,6 +50,7 @@ div, section {
 	color: #312e2e;
 	float: left;
 }
+
 #center {
 	background-color: #EFEFEF;
 	font-family: "ubuntu", sans-serif;
@@ -87,7 +87,7 @@ div, section {
 
 #column_four  {
 	background-color: #CAEBF2;
-	width: 24%;
+	width: 90%;
 	border: 0;
 	padding: 1%;
 	color: #312e2e;
@@ -166,7 +166,8 @@ h1, h3 {
 
 
 
-background-image: images/randfhero.jpg;
+background-image: {
+	images/randfhero.jpg;
 }
 
 
