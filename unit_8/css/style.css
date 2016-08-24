@@ -13,7 +13,7 @@ button {
     border-radius: 25px;
 	padding: .5em 4em;
 	font-family: "Franklin Gothic", sans-serif;
-	display: inline;
+	display: inline-block;
 	text-align: center;
 }
 
