@@ -33,7 +33,7 @@ div, section {
 	border-radius: 15px;
 	padding: 0;
 	font-family: "Franklin Gothic", sans-serif;
-	display: inline;
+	display: inline-block;
 	text-align: center;
 }
 
