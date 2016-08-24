@@ -216,7 +216,27 @@ footer {
 	
 	}
 }
+#left {
+	float: none;
+	font-size: 8px;
+	padding: 1em;
+	width: 75%;
+}
 
+}
+#center {
+	float: none;
+	font-size: 8px;
+	padding: 1em;
+	width: 75%;
+}
+}
+#right {
+	float: none;
+	font-size: 8px;
+	padding: 1em;
+	width: 75%;
+}
 	#column_four {
 	float: none;
 	width: 75%;
