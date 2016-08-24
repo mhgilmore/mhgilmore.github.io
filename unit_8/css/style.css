@@ -210,6 +210,8 @@ footer {
 
 	#column_three {
 	float: none;
+	font-size: 8px;
+	padding: 1em;
 	width: 75%;
 	
 	}
