@@ -202,45 +202,24 @@ footer {
 
 @media screen only and (min-width: 1312px) {
 	
-	#hero{
+	#hero, h1, h3 {
 	width: 75%;
+	display: block;
+	text-align: center;
 }
 
-	#left {
+	#column_three {
+	float: none;
+	width: 75%;
+	
+	}
+
+	#column_four {
 	float: none;
 	width: 75%;
 	}
 
-	#center {
-	float: none;
-	width: 75%;
-	}
-
-	#right {
-	float: none;
-	width: 75%;
-	}
-
-	#reverse {
-	float: none;
-	width: 75%;
-	}
-
-	#redefine {
-	float: none;
-	width: 75%;
-	}
-
-	#unblemish {
-	float: none;
-	width: 75%;
-	}
-
-
-	#soothe {
-	float: none;
-	width: 75%;
-	}
+	
 }
 
 
