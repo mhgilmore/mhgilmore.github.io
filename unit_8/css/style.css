@@ -25,11 +25,19 @@ div, section {
 	padding: 2%;
 	font-family: "ubuntu", sans-serif;
 	color: #312e2e;
-
-
 }
 
-#column_three  {
+#button {
+	background-color: #8dbdd8;
+	border: .5em solid;
+	border-radius: 15px;
+	padding: .1em 1em;
+	font-family: "Franklin Gothic", sans-serif;
+	display: inline;
+	text-align: center;
+}
+
+#three_column  {
 	background-color: #CAEBF2;
 	width: 90%;
 	border: 0;
@@ -84,7 +92,7 @@ div, section {
 }
 
 
-#column_four  {
+#four_column  {
 	background-color: #CAEBF2;
 	width: 90%;
 	border: 0;
