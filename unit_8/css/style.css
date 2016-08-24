@@ -174,8 +174,9 @@ background-image: {
 #end {
 	
 	font-family: "ubuntu", sans-serif;
+	width: 98%;
 	border: 0;
-	padding: 20px;
+	padding: 1%;
 	color: #312e2e;
 	float: left;
 }
@@ -183,8 +184,9 @@ background-image: {
 
 footer {
 	background-color: #FF3B3F;
+	width: 98%;
 	border: 0;
-	padding: 20px;
+	padding: 1%;
 	font-family: "ubuntu", sans-serif;
 	color: #312e2e;
 }
