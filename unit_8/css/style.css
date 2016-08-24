@@ -44,7 +44,7 @@ div, section {
 	font-family: "ubuntu", sans-serif;
 	background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
 	border: 0;
-	padding: .1em .5em;
+	padding: 1% 1.5%;
 	width: 30%;
 	color: #312e2e;
 	float: left;
@@ -56,7 +56,7 @@ div, section {
 
 	background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
 	border: 0;
-	padding: .5em 1.5em;
+	padding: 1% 1.5%;
 	width: 30%;
 	color: #312e2e;
 	float: left;
@@ -67,10 +67,10 @@ div, section {
 	font-family: "ubuntu", sans-serif;
 	background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
 	border: 0;
-	padding: .5em 1.5em;
+	padding: 1% 1.5%;
 	width: 30%;
 	color: #312e2e;
-	float: right;
+	float: left;
 }
 
 
