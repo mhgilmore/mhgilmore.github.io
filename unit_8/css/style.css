@@ -1,8 +1,7 @@
 header {
 	background-color: #FF3B3F;
-	text-shadow: 2px 2px 8px #FF0000;
 	border: 0;
-	padding: 20px;
+	padding: .5em;
 	font-family: "Franklin Gothic", sans-serif;
 	color: #312e2e;
 
@@ -23,7 +22,7 @@ button {
 div, section {
 	background-color: #CAEBF2;
 	border: 0;
-	padding: 20px;
+	padding: 2%;
 	font-family: "ubuntu", sans-serif;
 	color: #312e2e;
 
@@ -199,6 +198,21 @@ footer {
 
 #contact {text-align: center;
 	color: #312e2e;
+}
+
+@media screen only and (max-width: 1302px) {
+	
+	#hero{
+	width: 75%;
+}
+
+	#column_three {
+	float: none;
+	}
+
+	#column_four {
+	float: none;
+	}
 }
 
 
