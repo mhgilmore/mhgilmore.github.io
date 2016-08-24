@@ -200,7 +200,7 @@ footer {
 	color: #312e2e;
 }
 
-@media screen only and (max-width: 1312px) {
+@media screen only and (min-width: 1312px) {
 	
 	#hero{
 	width: 75%;
