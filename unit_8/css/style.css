@@ -19,31 +19,6 @@ button {
 }
 
 
-nav {
-	background-color: #8dbdd8;
-	 border: 2px solid;
-    border-radius: 20px;
-	padding: 10px;
-}
-
-aside {
-	background-color: #CAEBF2;
-	border: 0;
-	padding: 20px;
-	font-family: "Franklin Gothic", sans-serif;
-	color: #312e2e;
-
-}
-
-article {
-	background-color: #CAEBF2;
-	border: 0;
-	padding: 20px;
-	font-family: "Franklin Gothic", sans-serif;
-	color: #312e2e;
-
-}
-
 
 div, section {
 	background-color: #CAEBF2;
@@ -61,18 +36,7 @@ div, section {
 	border: 0;
 	padding: 1%;
 	color: #312e2e;
-	float: left;
 
-}
-
-
-.clearfix:after {
-	visibility: hidden;
-	display: block;
-	font-size: 0;
-	content: " ";
-	clear: both;
-	height: 0;
 }
 
 
@@ -85,6 +49,7 @@ div, section {
 	padding: .1em .5em;
 	width: 30%;
 	color: #312e2e;
+	float: left;
 }
 #center {
 	background-color: #EFEFEF;
@@ -95,18 +60,30 @@ div, section {
 	padding: .5em 1.5em;
 	width: 30%;
 	color: #312e2e;
+	float: left;
 }
 
 #right {
 	background-color: #EFEFEF;
 	font-family: "ubuntu", sans-serif;
-
-		background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
-border: 0;
+	background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
+	border: 0;
 	padding: .5em 1.5em;
 	width: 30%;
 	color: #312e2e;
+	float: left;
 }
+
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
 
 #column_four  {
 	background-color: #CAEBF2;
@@ -114,64 +91,52 @@ border: 0;
 	border: 0;
 	padding: 1%;
 	color: #312e2e;
-	float: left;
 	}
-
-.clearfix:after {
-	visibility: hidden;
-	display: block;
-	font-size: 0;
-	content: " ";
-	clear: both;
-	height: 0;
-}
 
 
 #reverse {
 background-color: #EFEFEF;
 	background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
-border: 0;
-font-family: "ubuntu", sans-serif;
-
+	border: 0;
+	font-family: "ubuntu", sans-serif;
 	padding: 2%;
 	width: 20%;	
-		color: #312e2e;
+	color: #312e2e;
+	float: left;
 
 }
-
-
 
 #redefine {
 	background-color: #EFEFEF;
 	background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
 	border: 0;
 	font-family: "ubuntu", sans-serif;
-
 	padding: 2%;
 	width: 20%;
 	color: #312e2e;
+	float: left;
 }
 
 #unblemish {
 	background-color: #EFEFEF;
-		background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
-border: 0;
-font-family: "ubuntu", sans-serif;
-
+	background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
+	border: 0;
+	font-family: "ubuntu", sans-serif;
 	padding: 2%;
 	width: 20%;
 	color: #312e2e;
+	float: left;
 }
 
 #soothe {
 	background-color: #EFEFEF;
-		background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
-border: 0;
-font-family: "ubuntu", sans-serif;
-
+	background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
+	border: 0;
+	font-family: "ubuntu", sans-serif;
 	padding: 2%;
 	width: 20%;
 	color: #312e2e;
+	float: left;
 }
 
 
@@ -184,26 +149,19 @@ font-family: "ubuntu", sans-serif;
 	height: 0;
 }
 
-
-
-
-body, h1 {font-family: Helvetica, sans-serif;
+h1 {font-family: Helvetica, sans-serif;
 	background-image: images/randfhero.jpg;
 	color: #0C1324;
 	image-align: center;
 	color: #312e2e;
 }
 
-h1, h3 {text-align: center;
+h1, h3 {
+	text-align: center;
 	font-weight: bold;
 	font-family: "ubuntu", sans-serif;
-		color: #312e2e;
-   
-}
-
-
-body {text-align: left;
 	color: #312e2e;
+   
 }
 
 
@@ -211,24 +169,7 @@ body {text-align: left;
 background-image: images/randfhero.jpg;
 }
 
-.text {
-font-family: "karma", serif;
-	color: #312e2e;
 
-}
-
-.list {
-	font-family: "karma", serif;
-	font-weight: bold;
-		color: #312e2e;
-
-}
-
-.action {
-	font-family: "ubuntu", sans-serif;
-		color: #312e2e;
-
-}
 #end {
 	
 	font-family: "ubuntu", sans-serif;
@@ -238,17 +179,8 @@ font-family: "karma", serif;
 	float: left;
 }
 
-.clearfix:after {
-	visibility: hidden;
-	display: block;
-	font-size: 0;
-	content: " ";
-	clear: both;
-	height: 0;
-}
 
-
-	footer {
+footer {
 	background-color: #FF3B3F;
 	border: 0;
 	padding: 20px;
