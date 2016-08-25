@@ -211,13 +211,36 @@ footer {
 
 @media only screen and (max-width: 475) {
 
-	#three_column {
+	#left {
 		float: none;
 	}
 
-	#four_column {
+	#center {
 		float: none;
 	}
 
-	
+	#right {
+		float: none;
+	}
+
+	#reverse {
+		float: none;
+	}
+
+	#redefine {
+		float: none;
 }
+
+	#unblemish {
+		float: none;
+
+	}
+
+	#soothe {
+		float: none;
+	}
+
+}
+
+
+
