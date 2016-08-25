@@ -211,23 +211,12 @@ footer {
 
 @media only screen and (max-width: 500px) {
 
-#left {
+button {
 	float: none;
 	display: inline-block;
 	margin: 1em;
 }
 
-#center {
-	float: none;
-	display: inline-block;
-	margin: 1em;
-}
-
-#right {
-	float: none;
-	display: inline-block;
-	margin: 1em;
-}
 	
 }
 
