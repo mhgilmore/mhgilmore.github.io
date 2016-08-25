@@ -230,9 +230,32 @@ footer {
  	text-align: center;
  	width: 100%;
  }
-}
 
+ #reverse {
+ 	clear: left;
+ 	display: inline-block;
+ 	text-align: center;
+ 	width: 100%;
+ }
 	
+	#redefine {
+ 	clear: left;
+ 	display: inline-block;
+ 	text-align: center;
+ 	width: 100%;
+ }
 
+#unblemish {
+ 	clear: left;
+ 	display: inline-block;
+ 	text-align: center;
+ 	width: 100%;
+ }
 
+#soothe {
+ 	clear: left;
+ 	display: inline-block;
+ 	text-align: center;
+ 	width: 100%;
+ }
 
