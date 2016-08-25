@@ -211,11 +211,23 @@ footer {
 
 @media only screen and (max-width: 500px) {
 
-nav {
+#left {
 	float: none;
-
+	display: inline-block;
+	margin: 1em;
 }
 
+#center {
+	float: none;
+	display: inline-block;
+	margin: 1em;
+}
+
+#right {
+	float: none;
+	display: inline-block;
+	margin: 1em;
+}
 	
 }
 
