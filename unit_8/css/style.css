@@ -209,10 +209,9 @@ footer {
 }
 
 @media only screen and (max-width: 10015px) {
-	div img {
-		margin: 0 1.6em .75em 0;
-		background-image: url(images/randfhero.jpg);
-		size: 80%;
+	div {
+		padding: 1em;
 		
+	}
 	}
 }
