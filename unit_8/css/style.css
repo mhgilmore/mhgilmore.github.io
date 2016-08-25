@@ -208,3 +208,14 @@ footer {
 		
 		}
 }
+
+@media only screen and (max-width: 475) {
+
+	#three_column {
+		float: none;
+	}
+
+	#four_column {
+		float: none;
+	}
+}
