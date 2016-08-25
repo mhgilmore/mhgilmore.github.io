@@ -203,9 +203,8 @@ footer {
 	color: #312e2e;
 }
 
-@media only screen and (max-width: 10015px) {
-	#hero {
-		padding: 1em;
+@media only screen and (max-width: 1015px) {
+	img {max-width: 100%;
 		
-	}
+		}
 }
