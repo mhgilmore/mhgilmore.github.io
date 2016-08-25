@@ -215,16 +215,20 @@ footer {
  	clear: left;
  	display: inline-block;
  	text-align: center;
+ 	width:100%;
  }
  #center {
  	clear: left;
  	display: inline-block;
  	text-align: center;
+ 	width:100%;
+
  }
  #right {
  	clear: left;
  	display: inline-block;
  	text-align: center;
+ 	width: 100%;
  }
 }
 
