@@ -212,7 +212,7 @@ footer {
 	#hero {
 		margin: 0 1.6em .75em 0;
 		background-image: url(images/randfhero.jpg);
-		height: 93px;
-		position: relative;
+		size: 80%;
+		
 	}
 }
