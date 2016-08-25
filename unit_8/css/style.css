@@ -213,17 +213,17 @@ footer {
 
  #left {
  	clear: left;
- 	display: block;
+ 	display: inline-block;
  	text-align: center;
  }
  #center {
  	clear: left;
- 	display: block;
+ 	display: inline-block;
  	text-align: center;
  }
  #right {
  	clear: left;
- 	display: block;
+ 	display: inline-block;
  	text-align: center;
  }
 }
