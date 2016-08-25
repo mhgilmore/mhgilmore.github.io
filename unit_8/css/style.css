@@ -39,9 +39,9 @@ div, section {
 
 #three_column  {
 	background-color: #CAEBF2;
-	width: 90%;
+	width: 100%;
 	border: 0;
-	padding: 2em;
+	padding: 0;
 	color: #312e2e;
 
 }
@@ -94,9 +94,9 @@ div, section {
 
 #four_column  {
 	background-color: #CAEBF2;
-	width: 90%;
+	width: 100;
 	border: 0;
-	padding: 1%;
+	padding: 0;
 	color: #312e2e;
 	}
 
@@ -176,9 +176,9 @@ h1, h3 {
 #end {
 	
 	font-family: "ubuntu", sans-serif;
-	width: 98%;
+	width: 100%;
 	border: 0;
-	padding: 1%;
+	padding: 0;
 	color: #312e2e;
 	float: left;
 }
@@ -186,9 +186,9 @@ h1, h3 {
 
 footer {
 	background-color: #FF3B3F;
-	width: 98%;
+	width: 100%;
 	border: 0;
-	padding: 1%;
+	padding: 0;
 	font-family: "ubuntu", sans-serif;
 	color: #312e2e;
 }
