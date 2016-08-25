@@ -213,12 +213,18 @@ footer {
 
  #left {
  	clear: left;
+ 	display: block;
+ 	text-align: center;
  }
  #center {
  	clear: left;
+ 	display: block;
+ 	text-align: center;
  }
  #right {
  	clear: left;
+ 	display: block;
+ 	text-align: center;
  }
 }
 
