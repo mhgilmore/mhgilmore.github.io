@@ -144,9 +144,12 @@ div, section {
 	width: 20%;
 	color: #312e2e;
 	float: left;
-	background-image: url(images/soothe.jpg)
 }
 
+#soothe {	
+	background-image: url(images/soothe.jpg)
+
+}
 
 .clearfix:after {
 	visibility: hidden;
