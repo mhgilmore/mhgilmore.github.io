@@ -1,0 +1,269 @@
+header {
+	background-color: #FF3B3F;
+	border: 0;
+	padding: .5em;
+	font-family: "Franklin Gothic", sans-serif;
+	color: #312e2e;
+
+}
+
+button {
+	background-color: #8dbdd8;
+	border: 1px solid
+    border-radius: 25px;
+	padding: .5em 4em;
+	font-family: "Franklin Gothic", sans-serif;
+	display: inline-block;
+	text-align: center;
+}
+
+
+
+div, section {
+	background-color: #CAEBF2;
+	border: 0;
+	padding: 2%;
+	font-family: "ubuntu", sans-serif;
+	color: #312e2e;
+}
+
+#button {
+	background-color: #8dbdd8;
+	border: .5em solid;
+	border-radius: 15px;
+	padding: 0;
+	font-family: "Franklin Gothic", sans-serif;
+	display: inline-block;
+	text-align: center;
+}
+
+#three_column  {
+	background-color: #CAEBF2;
+	width: 100%;
+	border: 0;
+	padding: 0;
+	color: #312e2e;
+
+}
+
+
+#left {
+	background-color: #EFEFEF;
+	font-family: "ubuntu", sans-serif;
+	background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
+	border: 0;
+	padding: 1% 1.5%;
+	width: 30%;
+	color: #312e2e;
+	float: left;
+	background-image: url(https://www.rodanandfields.com/Pages/REVERSE/Testimonials);
+}
+
+
+
+#center {
+	background-color: #EFEFEF;
+	font-family: "ubuntu", sans-serif;
+
+	background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
+	border: 0;
+	padding: 1% 1.5%;
+	width: 30%;
+	color: #312e2e;
+	float: left;
+	background-image: url(https://www.rodanandfields.com/Pages/Business/Why)
+}
+
+#right {
+	background-color: #EFEFEF;
+	font-family: "ubuntu", sans-serif;
+	background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
+	border: 0;
+	padding: 1% 1.5%;
+	width: 30%;
+	color: #312e2e;
+	float: left;
+	background-image: url(https://www.rodanandfields.com/Shop/Promotions)
+}
+
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+
+#four_column  {
+	background-color: #CAEBF2;
+	width: 100;
+	border: 0;
+	padding: 0;
+	color: #312e2e;
+	}
+
+
+#reverse {
+background-color: #EFEFEF;
+	background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
+	border: 0;
+	font-family: "ubuntu", sans-serif;
+	padding: 2%;
+	width: 20%;	
+	color: #312e2e;
+	float: left;
+	background-image: url(images/reverse.jpg)
+
+}
+
+#redefine {
+	background-color: #EFEFEF;
+	background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
+	border: 0;
+	font-family: "ubuntu", sans-serif;
+	padding: 2%;
+	width: 20%;
+	color: #312e2e;
+	float: left;
+	background-image: url(images/redefine.jpg)
+}
+
+#unblemish {
+	background-color: #EFEFEF;
+	background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
+	border: 0;
+	font-family: "ubuntu", sans-serif;
+	padding: 2%;
+	width: 20%;
+	color: #312e2e;
+	float: left;
+	background-image: url(images/unblemish.jpg)
+}
+
+#soothe {
+	background-color: #EFEFEF;
+	background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
+	border: 0;
+	font-family: "ubuntu", sans-serif;
+	padding: 2%;
+	width: 20%;
+	color: #312e2e;
+	float: left;
+	background-image: url(images/soothe.jpg)
+}
+
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+h1 {font-family: Helvetica, sans-serif;
+	background-image: images/randfhero.jpg;
+	color: #0C1324;
+	image-align: center;
+	color: #312e2e;
+}
+
+h1, h3 {
+	text-align: center;
+	font-weight: bold;
+	font-family: "ubuntu", sans-serif;
+	color: #312e2e;
+   
+}
+
+
+
+#end {
+	
+	font-family: "ubuntu", sans-serif;
+	width: 100%;
+	border: 0;
+	padding: 0;
+	color: #312e2e;
+	float: left;
+}
+
+
+footer {
+	background-color: #FF3B3F;
+	width: 100%;
+	border: 0;
+	padding: 0;
+	font-family: "ubuntu", sans-serif;
+	color: #312e2e;
+}
+
+.head {
+	font-family: "ubuntu", sans-serif;
+	font-weight: bold;
+	color: #312e2e;
+}
+
+#contact {text-align: center;
+	color: #312e2e;
+}
+
+@media only screen and (max-width: 1015px) {
+	img {max-width: 100%;
+		
+		}
+}
+
+@media only screen and (max-width: 500px) {
+
+ #left {
+ 	clear: left;
+ 	display: inline-block;
+ 	text-align: center;
+ 	width:100%;
+ }
+ #center {
+ 	clear: left;
+ 	display: inline-block;
+ 	text-align: center;
+ 	width:100%;
+
+ }
+ #right {
+ 	clear: left;
+ 	display: inline-block;
+ 	text-align: center;
+ 	width: 100%;
+ }
+
+ #reverse {
+ 	clear: left;
+ 	display: inline-block;
+ 	text-align: center;
+ 	width: 100%;
+ }
+	
+	#redefine {
+ 	clear: left;
+ 	display: inline-block;
+ 	text-align: center;
+ 	width: 100%;
+ }
+
+#unblemish {
+ 	clear: left;
+ 	display: inline-block;
+ 	text-align: center;
+ 	width: 100%;
+ }
+
+#soothe {
+ 	clear: left;
+ 	display: inline-block;
+ 	text-align: center;
+ 	width: 100%;
+ }
