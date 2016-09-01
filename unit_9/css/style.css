@@ -119,8 +119,6 @@ background-color: #EFEFEF;
 }
 
 #redefine {
-	background-color: #EFEFEF;
-	background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
 	border: 0;
 	font-family: "ubuntu", sans-serif;
 	padding: 2%;
@@ -131,8 +129,6 @@ background-color: #EFEFEF;
 }
 
 #unblemish {
-	background-color: #EFEFEF;
-	background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
 	border: 0;
 	font-family: "ubuntu", sans-serif;
 	padding: 2%;
@@ -143,8 +139,6 @@ background-color: #EFEFEF;
 }
 
 #soothe {
-	background-color: #EFEFEF;
-	background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
 	border: 0;
 	font-family: "ubuntu", sans-serif;
 	padding: 2%;
