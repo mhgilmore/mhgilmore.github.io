@@ -237,6 +237,12 @@ footer {
  	text-align: center;
  	width: 100%;
  }
+ h3 {
+ 	position: absolute;
+ 	top: 2em;
+ 	left: 0;
+ 	width: 100%;
+ }
 	
 	#redefine {
  	clear: left;
