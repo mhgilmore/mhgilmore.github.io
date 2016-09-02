@@ -174,7 +174,15 @@ h1 {font-family: "Charcoal", serif;
 	color: #312e2e;
 }
 
-h1, h3 {
+h1 {
+	text-align: center;
+	font-weight: bold;
+	font-family: "Charcoal", serif;
+	color: #312e2e;
+   
+}
+
+h3 {
 	text-align: center;
 	font-weight: bold;
 	font-family: "Charcoal", serif;
