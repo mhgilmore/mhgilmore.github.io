@@ -37,16 +37,18 @@ div, section {
 	text-align: center;
 
 }
-
-#button:hover {
-    background-color: #4CAF50;
-    color: white;
+#btn-6d {
+	border: 2px dashed #226fbe;
 }
 
-#button {
-    -webkit-transition-duration: 0.4s;
-    transition-duration: 0.4s;
+#btn-6d:hover {
+	background: transparent;
+	color: #226fbe;
 }
+
+
+
+
 
 #three_column  {
 	background-color: #CAEBF2;
