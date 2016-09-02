@@ -238,9 +238,9 @@ footer {
  	width: 100%;
  }
  h3 {
- 	position: relative;
- 	top: 2em;
- 	left: 0;
+ 	position: absolute;
+ 	top: 1em;
+ 	left: 2em;
  	width: 100%;
  }
 	
