@@ -1,7 +1,6 @@
 header {
 	background-color: #FF3B3F;
 	border: 0;
-	padding: .5em;
 	font-family: "Franklin Gothic", sans-serif;
 	color: #312e2e;
 
@@ -20,7 +19,7 @@ body {
 	background-image:linear-gradient(to bottom, #CAEBF2 0%, #CAEBF2 100%);
 	border: 0;
 	padding: 1% 1.5%;
-	width: 30%;
+	width: 100%;
 	color: #312e2e;
 
 }
