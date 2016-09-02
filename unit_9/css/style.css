@@ -113,8 +113,15 @@ div, section {
 	width: 20%;	
 	color: #312e2e;
 	float: left;
-	background-image: url(images/reverse.jpg)
+	position: relative;
+	width: 100%;
 
+}
+h3{
+	position: absolute;
+	top: 2em;
+	left: 0;
+	width: 100%;
 }
 
 #redefine {
