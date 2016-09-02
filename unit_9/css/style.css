@@ -35,6 +35,17 @@ div, section {
 	font-family: "Franklin Gothic", sans-serif;
 	display: inline-block;
 	text-align: center;
+
+}
+
+#button:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+
+#button {
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
 }
 
 #three_column  {
@@ -237,6 +248,7 @@ footer {
  	text-align: center;
  	width: 100%;
  }
+
  h3 {
  	position: absolute;
  	top: 1em;
